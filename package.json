@@ -7,7 +7,7 @@
     "name": "",
     "email": ""
   },
-  "repository": "https://github.com/wzz1020/block_demo",
+  "repository": "https://github.com/wzz1020/block_demo.git",
   "scripts": {
     "dev": "umi dev"
   },
